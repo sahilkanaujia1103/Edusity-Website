@@ -1,0 +1,19 @@
+.video{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0,0.7);
+}
+video{
+    max-width: 900px;
+    width:90%;
+    border: 5px solid white;
+}
+.hide{
+    display: none;
+}
